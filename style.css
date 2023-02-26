@@ -75,6 +75,7 @@ footer p{
 }
 ul{
     list-style: none;
+    font-size:20px;
 }
 .li1{
     list-style:url("li1.jpg")
@@ -89,5 +90,5 @@ ul{
     list-style:url("li4.png")
 }
 .li5{
-    list-style:url("li5.png")
+    list-style:url("li5.jpg")
 }
