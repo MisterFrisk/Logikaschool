@@ -82,14 +82,14 @@ ul{
 
 p{
     font-size: 30px; 
-    width: 50%;
+    width: 30%;
     margin-left: 15%;
     border: double 10px blue;
     
 }
 
 .zombie{
-    width: 50%;
+    width: 40%;
     margin-left: 25%;
     border: double 10px blue;
 }
